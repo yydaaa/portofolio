@@ -10,7 +10,7 @@
 
           <!-- Dropdown Profil -->
           <li class="group inline-block">
-            <div class="flex items-center cursor-pointer">
+            <div class="flex items-center cursor-pointer hover:text-red-500 transition duration-300">
               <p>PROFILE</p>
               <Icon name="material-symbols:keyboard-arrow-down" size="1rem" class="group-hover:rotate-180" />
             </div>
