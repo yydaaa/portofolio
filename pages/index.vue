@@ -143,7 +143,7 @@ import s4 from "../assets/img/Postgresql.png";
 import s5 from "../assets/img/nuxt.png";
 import s6 from "../assets/img/Bootstrap.png";
 import s7 from "../assets/img/js.png";
-import s8 from "../assets/img/visual.png";
+import s8 from "../assets/img/Visual.png";
 import s9 from "../assets/img/figma.png";
 import s10 from "../assets/img/Node Js.png";
 
@@ -161,7 +161,7 @@ const skills = ref([
   { src: s5, description: "Nuxt Js" },
   { src: s6, description: "Bootstrap" },
   { src: s7, description: "Java Script" },
-  { src: s8, description: "visual Studio" },
+  { src: s8, description: "Visual Studio" },
   { src: s9, description: "Figma" },
   { src: s10, description: "Node Js" },
 ]);
