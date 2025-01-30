@@ -1,6 +1,6 @@
   <template>
     <header class="bg-gray-900 text-gray-100 p-4 flex justify-between items-center sticky top-0 z-50">
-      <h1 class="text-xl font-bold">Yuda</h1>
+      <h1 class="text-xl font-bold">YAS</h1>
       <nav>
         <ul class="flex space-x-6">
           <!-- Menu Home -->
