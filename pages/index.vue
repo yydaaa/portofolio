@@ -3,7 +3,7 @@
   <div class="bg-gray-800 text-gray-200 min-h-screen">
     <main class="flex flex-col items-center justify-center py-16 px-4">
       <div class="w-32 h-32 mb-6">
-        <img src="../assets/img/siput.png" alt="" class="rounded-full" />
+        <img src="../assets/img/PP.png" alt="" class="rounded-full" />
       </div>
       <h2 class="text-3xl font-bold text-gray-100 text-center">
         hi, it's <span class="text-red-500">Yuda</span>
