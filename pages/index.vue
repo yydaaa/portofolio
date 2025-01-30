@@ -140,7 +140,7 @@ import k2 from "../assets/img/perpus.png";
 import s1 from "../assets/img/htm.png";
 import s2 from "../assets/img/cs.png";
 import s3 from "../assets/img/vu.png";
-import s4 from "../assets/img/Postgresql.png";
+import s4 from "../assets/img/supabase.png";
 import s5 from "../assets/img/nuxt.png";
 import s6 from "../assets/img/Bootstrap.png";
 import s7 from "../assets/img/js.png";
@@ -158,7 +158,7 @@ const skills = ref([
   { src: s1, description: "HTML" },
   { src: s2, description: "CSS" },
   { src: s3, description: "Vue Js" },
-  { src: s4, description: "Postgresql" },
+  { src: s4, description: "Supabase" },
   { src: s5, description: "Nuxt Js" },
   { src: s6, description: "Bootstrap" },
   { src: s7, description: "Java Script" },
