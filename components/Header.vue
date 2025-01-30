@@ -16,7 +16,7 @@
             </div>
             <ul class="absolute hidden group-hover:block">
               <li v-for="profile in profiles" :key="profile.id" class="p-2 hover:bg-gray-500 bg-gray-700">
-                <nuxt-link :to="profile.path" class="block">{{ profile.name }}</nuxt-link>
+                <nuxt-link :to="profile.path" class="block hover:text-red-500 ">{{ profile.name }}</nuxt-link>
               </li>
             </ul>
           </li>
