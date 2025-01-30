@@ -151,7 +151,7 @@ import s10 from "../assets/img/nodejs.png";
 const projects = ref([
   { src: k1, description: "Web sekolah", link: "https://ujikom-orpin.vercel.app/" },
   { src: k2, description: "Perpustakaan Digital", link: "https://yyda-perpus.vercel.app/" },
-  { src: k1, description: "Kantin SPW (masih dalam perbaikan)", link: "/maintenance" },
+  { src: k1, description: "Kantin SPW (masih dalam perbaikan)", link: "https://www.figma.com/design/HDe4Oy5CEi29lBxpokSoHA/DESIGN-KANTIN-SPW?node-id=0-1&p=f&t=42ojz8rxkjyDRnx9-0" },
 ]);
 
 const skills = ref([
